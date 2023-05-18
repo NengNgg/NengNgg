@@ -5,15 +5,12 @@
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400"/>
 
 # Hello, world! 👋
-<!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
-<br />
-**NengNgg/NengNgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>
-![Metrics](https://github.com/NengNgg/NengNgg/blob/main/github-metrics.svg)
-<br>
-<br>
-<br>
+<!--状态展示：-->
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=NengNgg&show_icons=true&theme=radical"/>
+
+<!--语言使用统计：-->
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NengNgg&theme=radical&layout=compact"  />
 <br>
 <br>
  <img src="https://github-readme-stats.vercel.app/api?username=NengNgg&show_icons=true" />
