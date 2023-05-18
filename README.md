@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<br>
+ <img src="https://github-readme-stats.vercel.app/api?username=NengNgg&show_icons=true" />
+<br>
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
