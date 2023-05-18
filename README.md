@@ -1,10 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=72B3FF&background=7BEDFF00&width=435&lines=Hello%2C+world!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!-- 背景图 -->
 <br />
 <br />
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400"/>
-
-# Hello, world! 👋
 <br>
 <!--状态展示：-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=NengNgg&show_icons=true&theme=radical"/>
