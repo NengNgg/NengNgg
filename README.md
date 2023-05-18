@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=72B3FF&background=7BEDFF00&width=435&lines=Hello%2C+world!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<!-- 背景图 -->
-<br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+NengNgg+;a+enthusiastic+backend+developers+from+China)](https://git.io/typing-svg)
+
 <br />
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400"/>
 <br>
