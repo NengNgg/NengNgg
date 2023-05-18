@@ -10,7 +10,7 @@
 <br />
 **NengNgg/NengNgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>
-![Metrics](https://github.com/jingchu000/jingchu000/blob/main/github-metrics.svg)
+![Metrics](https://github.com/NengNgg/NengNgg/blob/main/github-metrics.svg)
 <br>
 <br>
 <br>
