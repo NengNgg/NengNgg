@@ -18,26 +18,21 @@
 
 ### 🔥 Dev Momentum
 
-<p align="margin-left">
-  <img src="https://streak-stats.demolab.com?user=NengNgg&theme=tokyonight&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=7DD3FC" alt="GitHub Streak" />
-</p>
-
-<p align="margin-left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NengNgg&bg_color=0b1020&color=00f5ff&line=00f5ff&point=00f5ff&area=true&area_color=00bcd4&hide_border=true" alt="Activity Graph" />
-</p>
+<p align="margin-left"> <img src="https://streak-stats.demolab.com?user=NengNgg&theme=tokyonight&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=7DD3FC" alt="GitHub Streak" /> </p> 
+<p align="margin-left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NengNgg&bg_color=0b1020&color=00f5ff&line=00f5ff&point=00f5ff&area=true&area_color=00bcd4&hide_border=true" alt="Activity Graph" /> </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NengNgg/NengNgg/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NengNgg/NengNgg/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NengNgg/NengNgg/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg"/>
+  <img alt="github-snake" src="./assets/github-snake.svg"/>
 </picture>
 
 ---
 
-<p align="center">
+<p align="margin-left">
   <img src="https://komarev.com/ghpvc/?username=NengNgg&label=Profile%20views&color=00f5ff&style=flat-square" alt="Views" />
 </p>
