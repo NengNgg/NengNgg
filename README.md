@@ -6,22 +6,31 @@
   </a>
 </p>
 
-<img align="right" alt="Coding GIF" src="https://i.imgur.com/8MupZHY.gif" width="350"/>
+<img align="right" alt="Coding GIF" src="https://i.imgur.com/8MupZHY.gif" width="320"/>
 
-### 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=go,docker,mysql,redis,ubuntu,git,postman)](https://skillicons.dev)
+### 👨‍💻 Professional Profile
+- 🔭 **Focus**: Backend Architecture & Workflow Automation
+- ⚡ **Tech**: High-concurrency services and Microservices
+- 🛠️ **Expertise**: Golang, Docker, and Camunda BPMN
+- 💬 **Ask me about**: Service orchestration and system optimization
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NengNgg&show_icons=true&theme=radical&rank_icon=github" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NengNgg&theme=radical&layout=compact" alt="Languages" height="180" />
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,docker,mysql,redis,mongodb,ubuntu,git,postman,linux,nginx" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NengNgg&theme=radical" alt="Streak" />
+---
+
+### 🧱 Professional Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orchestration-Camunda-FF6A00?style=for-the-badge&logo=camunda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
